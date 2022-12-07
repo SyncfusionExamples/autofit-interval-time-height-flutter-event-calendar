@@ -4,6 +4,8 @@ A quick-start example to help you to autofit the calendar to screen height in th
 
 You can autofit the calendar time intervals to screen height in the Flutter Event Calendar by setting the [timeIntervalHeight](https://pub.dev/documentation/syncfusion_flutter_calendar/latest/calendar/TimeSlotViewSettings/timeIntervalHeight.html) property to -1 in the [TimeSlotViewSettings](https://pub.dev/documentation/syncfusion_flutter_calendar/latest/calendar/TimeSlotViewSettings/TimeSlotViewSettings.html).
 
+![FullScreenCalendar](https://user-images.githubusercontent.com/46158936/206167350-760c4180-04a9-4d7e-9383-a6962c2be261.png)
+
 You can also refer to our UG Docmentation to know more details about [FullScreenCalendar](https://help.syncfusion.com/flutter/calendar/timeslot-views#full-screen-calendar)
 
 ## Requirements to run the demo
