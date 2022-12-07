@@ -1,7 +1,10 @@
-# How to restrict the view navigation in the Flutter Calendar? 
+# How to autofit the calendar to screen height in the Flutter Calendar
 
-A quick-start example to help you to add an image as background in the Flutter Calendar.
+A quick-start example to help you to autofit the calendar to screen height in the Flutter Calendar.
 
+You can autofit the calendar time intervals to screen height in the Flutter Event Calendar by setting the [timeIntervalHeight](https://pub.dev/documentation/syncfusion_flutter_calendar/latest/calendar/TimeSlotViewSettings/timeIntervalHeight.html) property to -1 in the [TimeSlotViewSettings](https://pub.dev/documentation/syncfusion_flutter_calendar/latest/calendar/TimeSlotViewSettings/TimeSlotViewSettings.html).
+
+You can also refer to our UG Docmentation to know more details about [FullScreenCalendar](https://help.syncfusion.com/flutter/calendar/timeslot-views#full-screen-calendar)
 
 ## Requirements to run the demo
 * [VS Code](https://code.visualstudio.com/download)
